@@ -2,7 +2,7 @@
 
 * [My finished CodePen](https://codepen.io/jayanezj/full/rNONqjZ)
 
-##Objective
+## Objective
 Build a [CodePen.io](https://codepen.io) app that is functionally similar to this
 [https://codepen.io/freeCodeCamp/full/VPaoNP](https://codepen.io/freeCodeCamp/full/VPaoNP).
 
